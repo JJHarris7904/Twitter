@@ -1,0 +1,40 @@
+Movie This
+------------------------------------------------------------
+
+Title          : Rambo
+Release year   : 1982
+Plot           : Veitnam veteran and drifter John. J Rambo wanders into a small Washington town in search of a old friend, but is met with intolerance and brutality from the local sheriff.
+Actors         : Sylvester Stallone, Richard Crenna, Brian Dennehy
+IMDB           : 7.7/10
+RottenTomatoes : 88%
+Production     : USA
+Language       : English
+
+------------------------------------------------------------
+
+
+Movie This
+------------------------------------------------------------
+
+Title          : Harlem Nights
+Release year   : 1989
+Plot           : In the warning days of Prohibition, Sugar Ray, and his adopted son, Quick, run speakeasy called Club Sugar Ray.
+Actors         : Eddie Murphy, Richard Pryor, Redd Foxx, Della Reese
+IMDB           : 6/10
+RottenTomatoes : 27%
+Production     : USA
+Language       : English
+
+------------------------------------------------------------
+
+
+Spotify This Song
+------------------------------------------------------------
+
+Artists      : Backstreet Boys
+Album        : The Hits--Chapter One
+Track        : I Want It That Way
+Preview link : https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=275fa6b9bcbc4940bdfd2897b92ccb81
+
+------------------------------------------------------------
+
